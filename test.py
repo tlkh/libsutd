@@ -1,5 +1,3 @@
-from SUTD import DigitalWorld as dw
-from SUTD import Grumpy
-from SUTD import ArchitectureSustainableDesign as asd
+from SUTD import DigitalWorld
 
-asd.sleep()
+DigitalWorld.omigerd("help me")
