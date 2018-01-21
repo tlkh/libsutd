@@ -7,3 +7,7 @@ def omigerd(error_type):
     "https://www.google.com.sg/search?q=" + str(error_type),]
     for helpline in help:
         webbrowser.open(helpline, new=1, autoraise=True)
+
+def halp(item):
+    import webbrowser
+    webbrowser.open("https://docs.python.org/3/search.html?q="+str(item), new=1, autoraise=True)
