@@ -1,7 +1,5 @@
 from SUTD import DigitalWorld as dw
 from SUTD import Grumpy
+from SUTD import ArchitectureSustainableDesign as asd
 
-try:
-    fail = (1,2) + lol
-except Exception as e:
-    dw.omigerd(e)
+asd.sleep()
