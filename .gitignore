@@ -4,6 +4,8 @@
 .LSOverride
 
 __pycache__
+SUTD/__pycache__
+
 
 #Jupyter
 .ipynb_checkpoints

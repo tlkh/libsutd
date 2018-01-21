@@ -1,3 +1,7 @@
+"""
+Part and parcel of daily life?
+"""
+
 def projector()
   switch_on = "Nope. Please call tech support"
   raise Exception(switch_on)
