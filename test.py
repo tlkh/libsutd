@@ -1,3 +1,3 @@
 from SUTD import DigitalWorld
 
-DigitalWorld.omigerd("help me")
+DigitalWorld.omigerd("help")
