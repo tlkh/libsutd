@@ -5,9 +5,9 @@ setup.cfg
 setup.py
 SUTD/ArchitectureSustainableDesign.py
 SUTD/DigitalWorld.py
-SUTD/Grumpy.py
 SUTD/TechnicalDifficulties.py
 SUTD/__init__.py
+SUTD/cats.py
 libsutd.egg-info/PKG-INFO
 libsutd.egg-info/SOURCES.txt
 libsutd.egg-info/dependency_links.txt

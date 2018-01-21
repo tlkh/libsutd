@@ -1,3 +1,4 @@
-from SUTD import DigitalWorld
+from SUTD import cats
+from SUTD import DigitalWorld as dw
 
-DigitalWorld.omigerd("help")
+cats.Grumpy().meow()
