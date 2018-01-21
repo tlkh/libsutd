@@ -1,7 +1,5 @@
 """A better world by Design, one line of code at a time."""
 
-#def __init__(self):
-
 def omigerd(error_type):
     import webbrowser
     help = [ "https://stackexchange.com/search?q=" + str(error_type),
