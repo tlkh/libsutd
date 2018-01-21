@@ -3,11 +3,12 @@
 .AppleDouble
 .LSOverride
 
+# Python
 __pycache__
 SUTD/__pycache__
-
-
-#Jupyter
+build
+dist
+libsutd.egg-info
 .ipynb_checkpoints
 
 # Icon must end with two \r
